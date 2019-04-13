@@ -6,4 +6,18 @@ body {
 #test {
     border: 5px solid;
     border-color: darkgreen;
+    text-align: center;
+}
+#entete {
+    width:800px;
+    height:200px;
+    border: 5px solid;
+    border-color: blue;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#contenant {
+    width: 800px;
+	margin: 0 auto;
 }
